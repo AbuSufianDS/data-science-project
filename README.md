@@ -20,3 +20,12 @@ This project analyzes synthetic customer data to understand:
 - SciPy (Statistical analysis)
 
 ## 📁 Project Structure
+ - data/ # Raw and processed data
+ - scripts/ # Python analysis scripts results/ # Output files and visualization
+ - notebooks/ # Jupyter notebooks
+ - tests/ # Test files
+ - docs/ # Documentation
+ - README.md # This file
+ - requirements.txt # Python dependencies
+ - .gitignore # Git ignore rules
+
