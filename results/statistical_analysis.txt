@@ -1,0 +1,13 @@
+Statistical Analysis Results
+========================================
+
+Premium customers: 296
+Non-premium customers: 704
+
+Mean spending (premium): $65.87
+Mean spending (non-premium): $66.02
+
+T-test results:
+  t-statistic: -0.1059
+  p-value: 0.915663
+  Significant at p < 0.05: NO
